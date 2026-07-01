@@ -1,7 +1,5 @@
 # 😎 Vinicius Linhares
 **`Desenvolvedor Java em formação`**
-
-Me chamo Vinicius 
 <p align="left">
     <a href="https://github.com/LVinicius-S-Linhares?tab=repositories&sort=stargazers">
         <img 
