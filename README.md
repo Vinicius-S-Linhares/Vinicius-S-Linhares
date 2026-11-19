@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Desenvolvedor Full Stack Júnior na **AInnovation** e estudante de Ciência da Computação.
+Desenvolvedor Full Stack | Angular · TypeScript · C#/.NET · Playwright | Ciência da Computação @ AInnovation.
 
 ---
 
