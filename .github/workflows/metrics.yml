@@ -18,6 +18,7 @@ jobs:
           filename: metrics.svg
           template: classic
           config_timezone: America/Sao_Paulo
+          commits_authoring: Vinicius-S-Linhares, Vinicius Linhares
           base: header, activity, repositories
           repositories_affiliations: owner, collaborator, organization_member
 
