@@ -38,13 +38,5 @@ Desenvolvedor Full Stack Júnior na **AInnovation** e estudante de Ciência da C
 ### 📊 Estatísticas
 
 <p align="center">
-  <img alt="Sequência de contribuições" height="180"
-    src="https://streak-stats.demolab.com?user=Vinicius-S-Linhares&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Stats" height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-Linhares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars" />
-  <img alt="Linguagens mais usadas" height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-Linhares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img alt="Métricas do GitHub" src="metrics.svg" />
 </p>
